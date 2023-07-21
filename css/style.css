@@ -1,0 +1,9 @@
+body {
+    /* disabling body scrolling */
+    overflow: hidden;
+}  
+.scroll {
+    /* enable div scrolling */
+    overflow: auto;
+    height: 500px;
+}
